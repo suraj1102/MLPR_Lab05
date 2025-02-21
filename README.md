@@ -9,4 +9,4 @@
 - Created a docker container.
 - Used wandb to log and visualize the outputs of notebook.
 
-![Face Detecttion](report_images/face detection.png?raw=true "")
+![Face Detecttion](https://github.com/suraj1102/MLPR_Lab05/blob/main/report_images/face%20detection.png)
